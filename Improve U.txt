@@ -11,4 +11,11 @@ Graphs for analyzing
 Add alarms/remainders if needed 
 Dark theme (Bonus)
 Machine Learning
-Badge and Acheivements (Self and Social)
+Badge and Achievements (Self and Social)
+Check time spent on other apps and activities
+Restriction (Self and Automated)
+Get Info from other apps (Like Runtastic)
+Suggest Activities
+Notification light for current activity (RGBY)
+Learn From Schedules Of Successful People 
+Recommend timings
